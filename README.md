@@ -114,17 +114,6 @@ data/
 
 ---
 
-## Publishing on GitHub Desktop
-
-1. Create a new repo: *File → New repository*.
-2. Name it `keno-time-predictor-v5` and add a short description.
-3. Add all project files (except those in `.gitignore`) to the repo folder.
-4. Commit with a clear message, e.g., `feat: initial pipeline and dashboard`.
-5. Click **Publish repository**.
-6. For old projects, delete or archive them from the **Repositories** tab on GitHub.
-
----
-
 ## Credits
 
 Developed by **Amjad Kamara**.
