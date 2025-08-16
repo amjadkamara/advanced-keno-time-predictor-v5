@@ -111,10 +111,18 @@ data/
 
 - **Screenshots** of the dashboard.
 
+<p float="left">
+  <a href="screenshots/dashboard_main.JPG">
+    <img src="screenshots/dashboard_main.JPG" width="48%" />
+  </a>
+  <a href="screenshots/dashboard_predict_number.JPG">
+    <img src="screenshots/dashboard_predict_number.JPG" width="48%" />
+  </a>
+</p>
 
 ---
 
 ## Credits
 
-Developed by **Amjad Kamara**.
+Developed by **Amjad M. Kamara**.
 
