@@ -110,7 +110,7 @@ data/
 ```
 
 - **Screenshots** of the dashboard.
-- **LICENSE** (MIT recommended).
+
 
 ---
 
